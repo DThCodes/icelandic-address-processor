@@ -34,8 +34,8 @@ try:
     selected_columns_df_b = selected_columns_df_b.sort_values(by=['POSTNR', 'HEITI_NF'])
 
     # Save to CSV
-    selected_columns_df_b.to_csv('selected_stadfangaskra-b.csv', index=False)
-    print("New CSV file 'selected_stadfangaskra-b.csv' created successfully!")
+    selected_columns_df_b.to_csv('icelandic_addresses.csv', index=False)
+    print("New CSV file 'icelandic_addresses.csv' created successfully!")
 
 except Exception as e:
     print(f"Error processing CSV: {e}")
