@@ -14088,6 +14088,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 110,Breiðhöfði 10,Breiðhöfða 10
 110,Breiðhöfði 13,Breiðhöfða 13
 110,Breiðhöfði 15,Breiðhöfða 15
+110,Breiðhöfði 17,Breiðhöfða 17
+110,Breiðhöfði 19,Breiðhöfða 19
 110,Breiðhöfði 21,Breiðhöfða 21
 110,Breiðhöfði 23,Breiðhöfða 23
 110,Breiðhöfði 25,Breiðhöfða 25
@@ -30010,7 +30012,9 @@ POSTNR,HEITI_NF,HEITI_TGF
 203,Boðaþing 13,Boðaþingi 13
 203,Boðaþing 14,Boðaþingi 14
 203,Boðaþing 16,Boðaþingi 16
+203,Boðaþing 18,Boðaþingi 18
 203,Boðaþing 2,Boðaþingi 2
+203,Boðaþing 20,Boðaþingi 20
 203,Boðaþing 22,Boðaþingi 22
 203,Boðaþing 24,Boðaþingi 24
 203,Boðaþing 3,Boðaþingi 3
@@ -34559,7 +34563,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 210,Túnfit 4,Túnfit 4
 210,Túnfit 5,Túnfit 5
 210,Túnfit 6,Túnfit 6
-210,U7 millispilda,U7 millispildu
 210,Unnargrund 1,Unnargrund 1
 210,Unnargrund 10,Unnargrund 10
 210,Unnargrund 11,Unnargrund 11
@@ -41399,6 +41402,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 221,Stuðlaskarð 8C,Stuðlaskarði 8C
 221,Stuðlaskarð 8D,Stuðlaskarði 8D
 221,Stuðlaskarð 9,Stuðlaskarði 9
+221,Stálhella,Stálhellu
 221,Stálhella 10,Stálhellu 10
 221,Stálhella 12,Stálhellu 12
 221,Stálhella 14,Stálhellu 14
@@ -41699,6 +41703,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 221,Völuskarð 10,Völuskarði 10
 221,Völuskarð 11,Völuskarði 11
 221,Völuskarð 12,Völuskarði 12
+221,Völuskarð 12A,Völuskarði 12A
+221,Völuskarð 12B,Völuskarði 12B
 221,Völuskarð 13,Völuskarði 13
 221,Völuskarð 13G,Völuskarði 13G
 221,Völuskarð 14A,Völuskarði 14A
@@ -47239,6 +47245,10 @@ POSTNR,HEITI_NF,HEITI_TGF
 245,Bárusker 7C,Báruskeri 7C
 245,Bárusker 7D,Báruskeri 7D
 245,Bárusker 8,Báruskeri 8
+245,Bárusker 8A,nan 8A
+245,Bárusker 8B,nan 8B
+245,Bárusker 8C,nan 8C
+245,Bárusker 8D,nan 8D
 245,Bæjarsker,Bæjarskeri
 245,Bæjarsker 4,Bæjarskeri 4
 245,Dreifistöð DRE 20,nan 20
@@ -51679,6 +51689,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 262,Valhallarbraut 872,Valhallarbraut 872
 262,Valhallarbraut 873,Valhallarbraut 873
 262,Valhallarbraut 873A,Valhallarbraut 873A
+262,Valhallarbraut 874,Valhallarbraut 874
 262,Valhallarbraut 891,Valhallarbraut 891
 262,Þjóðbraut 838,Þjóðbraut 838
 270,Akraland,Akralandi
@@ -59075,6 +59086,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 301,Akur,Akri
 301,Akur I,Akri I
 301,Akurey,Akurey
+301,Akurey 1,Akurey 1
 301,Akurey í Grunnavogi,Akurey í Grunnavogi
 301,Arakot 4,Arakoti 4
 301,Arkarlækjarland,Arkarlækjarlandi
@@ -60271,7 +60283,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 301,Skorholtsnes 2,Skorholtsnesi 2
 301,Skorholtsnes 3,Skorholtsnesi 3
 301,Skorholtsnes 4,Skorholtsnesi 4
-301,Skorholtsnes 5,Skorholtsnesi 5
 301,Skorraholt 1,Skorraholti 1
 301,Skorraholt 2,Skorraholti 2
 301,Skorraholt 3,Skorraholti 3
@@ -70646,6 +70657,10 @@ POSTNR,HEITI_NF,HEITI_TGF
 401,Hjallar,Hjöllum
 401,Hlöðuvík,Hlöðuvík
 401,Horn,Horni
+401,Horn 2,Horni 2
+401,Horn 3,Horni 3
+401,Horn 4,Horni 4
+401,Horn 5,Horni 5
 401,Hornbjargsviti,Hornbjargsvita
 401,Hrafnabjörg,Hrafnabjörg
 401,Hrafnsfjarðareyri,Hrafnsfjarðareyri
@@ -85617,9 +85632,9 @@ POSTNR,HEITI_NF,HEITI_TGF
 605,Glóð,Glóð
 605,Gnúpufell,Gnúpufelli
 605,Grund,Grund
-605,Grund 2B,Grund 2B
 605,Grund I,Grund I
 605,Grund II,Grund II
+605,Grund II A,Grund II A
 605,Grund II B,Grund II B
 605,Grund/Holt,Grund/Holti
 605,Grundarkirkja,Grundarkirkju
@@ -95037,6 +95052,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 730,Bakkagerði 7,Bakkagerði 7
 730,Bakkagerði 8,Bakkagerði 8
 730,Bakkagerði/Reyðarfjhr,
+730,Breiðimelur,Breiðamel
 730,Breiðimelur 1,Breiðamel 1
 730,Breiðimelur 3,Breiðamel 3
 730,Breiðimelur 5,Breiðamel 5
@@ -96088,6 +96104,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 735,Útkaupstaðarbraut 3A,Útkaupstaðarbraut 3A
 735,Útkaupstaðarbraut 3B,Útkaupstaðarbraut 3B
 735,Útkaupstaðarbraut 4,Útkaupstaðarbraut 4
+736,Bjarg,Bjargi
 736,Borgir,Borgum
 736,Byggðarholt,Byggðarholti
 736,Byggðarholt 1,Byggðarholti 1
@@ -100302,7 +100319,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 800,Fossmúli 1,Fossmúla 1
 800,Fossnes,Fossnesi
 800,Fossnes 11,Fossnesi 11
-800,Fossnes 13,Fossnesi 13
 800,Fossnes 14,Fossnesi 14
 800,Fossnes 16,Fossnesi 16
 800,Fossnes 18,Fossnesi 18
@@ -101803,6 +101819,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 800,Móstekkur 83,Móstekk 83
 800,Móstekkur 84,Móstekk 84
 800,Móstekkur 85,Móstekk 85
+800,Móstekkur 86,Móstekk 86
 800,Móstekkur 87,Móstekk 87
 800,Móstekkur 88,Móstekk 88
 800,Móstekkur 89,Móstekk 89
@@ -104387,6 +104404,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 804,Arakot,Arakoti
 804,Arngrímslundur,Arngrímslungi
 804,Austurhlíð,Austurhlíð
+804,Austurhlíð 3,Austurhlíð 3
 804,Bali,Bala
 804,Bergsstaðastræti 62,Bergsstaðastræti 62
 804,Birkikinn,Birkikinn
@@ -112828,7 +112846,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 810,Brattahlíð 13,Bröttuhlíð 13
 810,Brattahlíð 14,nan 14
 810,Brattahlíð 15,Bröttuhlíð 15
-810,Brattahlíð 16,Bröttuhlíð 16
 810,Brattahlíð 17,Bröttuhlíð 17
 810,Brattahlíð 18,Bröttuhlíð 18
 810,Brattahlíð 1A,Bröttuhlíð 1A
@@ -113382,7 +113399,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 810,Hverahlíð 13,Hverahlíð 13
 810,Hverahlíð 14,Hverahlíð 14
 810,Hverahlíð 15,nan 15
-810,Hverahlíð 17,Hverahlíð 17
 810,Hverahlíð 18,Hverahlíð 18
 810,Hverahlíð 19,Hverahlíð 19
 810,Hverahlíð 2,Hverahlíð 2
@@ -114676,7 +114692,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 815,Mánabraut 7,Mánabraut 7
 815,Mánabraut 8,Mánabraut 8
 815,Mánabraut 9,Mánabraut 9
-815,Nesbraut 1,nan 1
+815,Nesbraut 1,Nesbraut 1
 815,Nesbraut 25,Nesbraut 25
 815,Nesbraut 3,Nesbraut 3
 815,Nesbraut 5,nan 5
@@ -114939,8 +114955,10 @@ POSTNR,HEITI_NF,HEITI_TGF
 815,Sunnubraut 8,Sunnubraut 8
 815,Sunnubraut 9,Sunnubraut 9
 815,Suðurvör 1,Suðurvör 1
+815,Suðurvör 2,Suðurvör 2
 815,Suðurvör 3,Suðurvör 3
 815,Suðurvör 5,Suðurvör 5
+815,Suðurvör 9,Suðurvör 9
 815,Svartasker 1,Svartaskeri 1
 815,Svartasker 2,Svartaskeri 2
 815,Svartasker 3,Svartaskeri 3
@@ -120701,7 +120719,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 861,Breiðabólstaðarkirkja,Breiðabólstaðarkirkju
 861,Breiðabólstaður,Breiðabólstað
 861,Breiðabólstaður 1,Breiðabólstað 1
-861,Brekkur,Brekkum
+861,Brekkur,
 861,Bryggjur 1,Bryggjum 1
 861,Bryggjur 2,Bryggjum 2
 861,Bræðrapartur,Bræðraparti
